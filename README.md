@@ -1,4 +1,4 @@
-<h2>Hi, I'm Rashid Khan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></h2>
+<h2>Hi, I'm Chintan Chavnekar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></h2>
 <h1>Mei hu ek udta Robot.....Doreamonnn.</h1>
 <img src="https://raw.githubusercontent.com/Rashidkhan25/Rashidkhan25/refs/heads/main/header.jpeg" alt="Profile Banner" width="100%">
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20Chintan&fontSize=60&animation=fadeIn)
